@@ -1,4 +1,4 @@
-# QC_environment_commands  
+# QC_environment_commands
 conda create -n qc  
 conda activate qc  
 conda install -c bioconda fastqc  
